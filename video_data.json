@@ -1,0 +1,867 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "njNdkKI0ezHW6R9cfVU74Y1qIzY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "w54ZvpI_9ja5ZeCi6qE54y6rp6s",
+            "id": "Jig1UqBX3mM",
+            "snippet": {
+                "publishedAt": "2024-01-01T16:34:47Z",
+                "channelId": "UCRFzfDmxPoedpWbO1zqE1yw",
+                "title": "Proof For Moon Landing \ud83d\ude44 w/ Neil deGrasse Tyson",
+                "description": "For COPYRIGHT ISSUES, please contact us at: (officialuniverselair@gmail.com) This content is shared for awareness purposes only and does not belong to Universe Lair. If you own the rights and want it removed, email us at (officialuniverselair@gmail.com), and we will promptly delete it. This content is used under Section 107 of the Copyright Act 1976, allowing for fair use in criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is permitted for non-profit, educational, or personal purposes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jig1UqBX3mM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jig1UqBX3mM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jig1UqBX3mM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Jig1UqBX3mM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Jig1UqBX3mM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Universe Lair",
+                "tags": [
+                    "debunking the moon landings",
+                    "joe rogan",
+                    "conspiracy theorists",
+                    "Neil deGrasse Tyson",
+                    "Neil deGrasse Tyson On The Moon Landings",
+                    "Proof For Moon Landing"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Proof For Moon Landing \ud83d\ude44 w/ Neil deGrasse Tyson",
+                    "description": "For COPYRIGHT ISSUES, please contact us at: (officialuniverselair@gmail.com) This content is shared for awareness purposes only and does not belong to Universe Lair. If you own the rights and want it removed, email us at (officialuniverselair@gmail.com), and we will promptly delete it. This content is used under Section 107 of the Copyright Act 1976, allowing for fair use in criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is permitted for non-profit, educational, or personal purposes."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "14101177",
+                "likeCount": "485437",
+                "favoriteCount": "0",
+                "commentCount": "22485"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "D0yigukLzDtBgCb2Oi4ajUAn4_Q",
+            "id": "s0XdMjmLVho",
+            "snippet": {
+                "publishedAt": "2024-01-01T13:06:24Z",
+                "channelId": "UCm0dw7RiKLAxLiI-ZQWbr_g",
+                "title": "Karton vs Ger\u00e7ek Projeksiyon",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s0XdMjmLVho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s0XdMjmLVho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s0XdMjmLVho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s0XdMjmLVho/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s0XdMjmLVho/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Furkan Akman",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Karton vs Ger\u00e7ek Projeksiyon",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "tr"
+            },
+            "contentDetails": {
+                "duration": "PT47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "3532232",
+                "likeCount": "67928",
+                "favoriteCount": "0",
+                "commentCount": "145"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "m7_MBqrl6JFpk5c3z3WrMdInMKU",
+            "id": "fjYGQnYOPvQ",
+            "snippet": {
+                "publishedAt": "2024-01-01T17:00:23Z",
+                "channelId": "UC4Z8mPYjn6Dhr6n531YDh0Q",
+                "title": "RTX 4090 D From Ngreedia",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fjYGQnYOPvQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fjYGQnYOPvQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fjYGQnYOPvQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fjYGQnYOPvQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fjYGQnYOPvQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "UFD Tech",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "RTX 4090 D From Ngreedia",
+                    "description": ""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": false,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "543548",
+                "likeCount": "38941",
+                "favoriteCount": "0",
+                "commentCount": "594"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7gw9jpYK2Xy_CEYGaFOwEk7QTLM",
+            "id": "uH4jsSLXjHA",
+            "snippet": {
+                "publishedAt": "2024-01-01T10:47:17Z",
+                "channelId": "UC7J7zgT0S0mao8Q8q-9HJvA",
+                "title": "Power Of Legendary Frostfire Look Changer - Garena Free Fire",
+                "description": "Power Of Legendary Frostfire Look Changer - Garena Free Fire\n\n\nThe new Legendary Frostfire bundle looks great on all characters with special ability in ff king of look changers\n\n#ffshorts #shorts #freefireshorts #ytshorts",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uH4jsSLXjHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uH4jsSLXjHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uH4jsSLXjHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uH4jsSLXjHA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uH4jsSLXjHA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "REAL TOXIC GAMING 2k",
+                "tags": [
+                    "Power Of Legendary Frostfire Look Changer - Garena Free Fire"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "Power Of Legendary Frostfire Look Changer - Garena Free Fire",
+                    "description": "Power Of Legendary Frostfire Look Changer - Garena Free Fire\n\n\nThe new Legendary Frostfire bundle looks great on all characters with special ability in ff king of look changers\n\n#ffshorts #shorts #freefireshorts #ytshorts"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "106",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Action-adventure_game",
+                    "https://en.wikipedia.org/wiki/Action_game",
+                    "https://en.wikipedia.org/wiki/Video_game_culture"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "s23ynLdzzktq5TzLKJvEMULOKH0",
+            "id": "M6qylHuPCeI",
+            "snippet": {
+                "publishedAt": "2024-01-01T13:00:14Z",
+                "channelId": "UCh2dnrLCNHDS2IV9I2R58Pw",
+                "title": "DARPA's  STAR  Space Cruiser reentry",
+                "description": "The fundamental concept behind the STAR program was to maximize efficiency while minimizing cost. To achieve this goal, the craft was designed to be as small and inexpensive as possible, with only one crew member onboard. The crew compartment itself was unpressurized and only large enough for a seated astronaut, who would be required to remain in their spacesuit throughout the duration of the mission. Notably, the craft lacked key features such as hydraulics, an ejection seat, or even landing gear. Instead, it would utilize a parawing to glide back to Earth and touch down on land.\n\nDespite its Spartan design, the STAR was intended to function as an orbital runabout, capable of carrying out a variety of missions. The craft was eight meters in length and only a meter and a half tall at its aft end, tapering down to a fine point at its nose. To optimize its transportability, the nose was designed to fold back at a hinge four meters down from the tip of the STAR, creating a compact package just four meters in length. \n\nIn terms of deployment, the Shuttle was expected to lift the STAR into orbit, potentially even multiple at a time, and deploy them from its cargo bay. Once in space, the STAR would set off on its designated missions, either returning to the Shuttle or making its own way back to Earth. If the STAR needed to reach higher altitudes beyond its on-board propellant capacity (which was estimated to be around 1650 kilometers), a truncated Centaur stage equipped with a single RD-10 engine - known as the Centaur-SP - could be attached to the STAR for increased thrust. This configuration would fit into the Shuttle's cargo bay, allowing for transport to geosynchronous orbit and beyond.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M6qylHuPCeI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M6qylHuPCeI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M6qylHuPCeI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M6qylHuPCeI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M6qylHuPCeI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hazegrayart",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "DARPA's  STAR  Space Cruiser reentry",
+                    "description": "The fundamental concept behind the STAR program was to maximize efficiency while minimizing cost. To achieve this goal, the craft was designed to be as small and inexpensive as possible, with only one crew member onboard. The crew compartment itself was unpressurized and only large enough for a seated astronaut, who would be required to remain in their spacesuit throughout the duration of the mission. Notably, the craft lacked key features such as hydraulics, an ejection seat, or even landing gear. Instead, it would utilize a parawing to glide back to Earth and touch down on land.\n\nDespite its Spartan design, the STAR was intended to function as an orbital runabout, capable of carrying out a variety of missions. The craft was eight meters in length and only a meter and a half tall at its aft end, tapering down to a fine point at its nose. To optimize its transportability, the nose was designed to fold back at a hinge four meters down from the tip of the STAR, creating a compact package just four meters in length. \n\nIn terms of deployment, the Shuttle was expected to lift the STAR into orbit, potentially even multiple at a time, and deploy them from its cargo bay. Once in space, the STAR would set off on its designated missions, either returning to the Shuttle or making its own way back to Earth. If the STAR needed to reach higher altitudes beyond its on-board propellant capacity (which was estimated to be around 1650 kilometers), a truncated Centaur stage equipped with a single RD-10 engine - known as the Centaur-SP - could be attached to the STAR for increased thrust. This configuration would fit into the Shuttle's cargo bay, allowing for transport to geosynchronous orbit and beyond."
+                }
+            },
+            "contentDetails": {
+                "duration": "PT54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": false,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "8024520",
+                "likeCount": "129175",
+                "favoriteCount": "0",
+                "commentCount": "930"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Hobby",
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6MVT5XwMy81B8gjJBvPBLHzhnGE",
+            "id": "WgTDGxV-Zo4",
+            "snippet": {
+                "publishedAt": "2024-01-01T09:31:22Z",
+                "channelId": "UCaA7Xz8lU9HErQrZEs4hEpg",
+                "title": "Extended Savings at Haroon Traders until Jan 15th! \ud83c\udf89 Don't Miss Out on Fantastic Deals! \ud83d\udecd\ufe0f #Extended",
+                "description": "\"Extended Savings at Haroon Traders until Jan 15th! \ud83c\udf89 Don't Miss Out on Fantastic Deals! \ud83d\udecd\ufe0f #HaroonTraders #ExtendedSale\"\n#Grow #everyone #karachi #reels #viral #foryou #trend",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WgTDGxV-Zo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WgTDGxV-Zo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WgTDGxV-Zo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WgTDGxV-Zo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WgTDGxV-Zo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HAROON TRADERS",
+                "tags": [
+                    "haroontraders",
+                    "haroon traders",
+                    "dell",
+                    "hp",
+                    "lenovo",
+                    "laptops",
+                    "laptop",
+                    "importer",
+                    "wholesaler",
+                    "dealer",
+                    "usedlaptop",
+                    "fresh import",
+                    "stock",
+                    "bulk",
+                    "quantity",
+                    "online delivery karachi",
+                    "cod",
+                    "good price",
+                    "notebook",
+                    "onlineshopping",
+                    "best dealer",
+                    "cooperate",
+                    "it store",
+                    "laptop store",
+                    "fujistu",
+                    "sonyvaio",
+                    "msi",
+                    "toshiba",
+                    "cash on delivery",
+                    "wholesale price"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Extended Savings at Haroon Traders until Jan 15th! \ud83c\udf89 Don't Miss Out on Fantastic Deals! \ud83d\udecd\ufe0f #Extended",
+                    "description": "\"Extended Savings at Haroon Traders until Jan 15th! \ud83c\udf89 Don't Miss Out on Fantastic Deals! \ud83d\udecd\ufe0f #HaroonTraders #ExtendedSale\"\n#Grow #everyone #karachi #reels #viral #foryou #trend"
+                },
+                "defaultAudioLanguage": "ur"
+            },
+            "contentDetails": {
+                "duration": "PT47S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "269",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "6"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "UZlrqmL0nyd4Jd0QOMP95JOBuTs",
+            "id": "nDLb8_wgX50",
+            "snippet": {
+                "publishedAt": "2024-01-01T13:00:36Z",
+                "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+                "title": "David Goggins: How to Build Immense Inner Strength",
+                "description": "In this episode, my guest is David Goggins, retired Navy SEAL, highly accomplished ultramarathoner, best-selling author, and influential public speaker.\n\nDavid explains how he mastered his inner dialogue to build extraordinary levels of discipline and mental and physical toughness.\n\nHe describes how confronting his early hardships, including physical and mental abuse, learning disorders, and obesity, became a practice of deep and excruciating self-reflection \u2014 eventually allowing him to transmute those experiences into a superhuman work ethic.\n\nThis conversation is a unique window into David Goggins\u2019 process in that it focuses both on the underlying science and how David manages and directs his inner dialogue.\n\nIt\u2019s a conversation that will inform and inspire anyone wondering how exactly to go about building discipline and confidence and reach their potential.\n \nNote: This conversation includes profanity. Some content might not be suitable for all audiences and ages.\n\nAccess the full show notes for this episode: https://go.hubermanlab.com/emxCgmM\n\nUse Ask Huberman Lab, our chat-based tool, for summaries, clips, and insights from this episode: https://go.hubermanlab.com/g9nj7p\n\n*Thank you to our sponsors*\nAG1: https://drinkag1.com/huberman\nMaui Nui Venison: https://mauinuivenison.com/huberman \nAeroPress: https://aeropress.com/pages/huberman \nEight Sleep: https://eightsleep.com/huberman \nInsideTracker: https://insidetracker.com/huberman \nMomentous: https://livemomentous.com/huberman \n\n*Huberman Lab Social & Website*\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nTwitter: https://twitter.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\nWebsite: https://www.hubermanlab.com \nNewsletter: https://www.hubermanlab.com/newsletter\n\n*David Goggins*\nWebsite: https://davidgoggins.com \nBooks: https://davidgoggins.com/book\nMerchandise: https://shop.davidgoggins.com \nInstagram: https://www.instagram.com/davidgoggins\nFacebook: https://www.facebook.com/iamdavidgoggins \nX: https://twitter.com/davidgoggins \n\n*Timestamps*\n00:00:00 David Goggins\n00:03:22 Sponsors: Maui Nui, AeroPress & Eight Sleep\n00:07:58 Learning, Studying & Attention Deficit Hyperactivity Disorder (ADHD)\n00:14:59 Writing & Learning, ADHD & Focus\n00:20:35 Friction, Focus, \u201cConqueror\u2019s Mindset\u201d\n00:25:16 Early Hardships, \u201cHaunted\u201d\n00:30:48 Anger, Social Media; Growth & Challenges\n00:36:14 Sponsor: AG1\n00:37:11 Stick vs. Carrot, Negative Inner Dialogue, \u201cStay Hard\u201d\n00:42:39 Inspiration, Characters & Self Image\n00:46:09 Willpower & Anterior Mid-Cingulate Cortex\n00:53:23 Friction & the \u201cSuck\u201d, Willpower\n00:59:14 Building Willpower, Brain & \u201cNo Days Off\u201d Mentality \n01:08:52 Sponsor: InsideTracker\n01:09:54 Losing Weight, Challenge & Willpower\n01:18:47 Self-Criticism & Discipline; Recovery; Stutter & Building Confidence\n01:26:45 Relationships & Honest Conversations, People Pleasing\n01:34:49 Self-Reflection & Empowerment\n01:39:06 Unseen Work, Real Passion & Purpose, Medicine Cabinet Analogy\n01:46:32 Feeling Lost, Self-Reflection & Individual Process \n01:54:11 Challenges & Two Internal Voices, Misunderstood\n01:59:32 Running, Smoke Jumping; Success; Willpower & Perishable Skills\n02:07:04 Self-Reflection & Action, Distractions\n02:15:27 Inner Dialogue; Failing Properly\n02:24:59 Introspection & Unconscious Mind, Cleaning \u201cCupboards\u201d\n02:35:19 Zero-Cost Support, Spotify & Apple Reviews, YouTube Feedback, Sponsors,  Momentous, Social Media, Neural Network Newsletter\n\n#HubermanLab #DavidGoggins\n\nDisclaimer: https://www.hubermanlab.com/disclaimer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nDLb8_wgX50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nDLb8_wgX50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nDLb8_wgX50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nDLb8_wgX50/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nDLb8_wgX50/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andrew Huberman",
+                "tags": [
+                    "andrew huberman",
+                    "huberman lab podcast",
+                    "huberman podcast",
+                    "dr. andrew huberman",
+                    "neuroscience",
+                    "huberman lab",
+                    "andrew huberman podcast",
+                    "the huberman lab podcast",
+                    "science podcast",
+                    "david goggins",
+                    "learning",
+                    "studying",
+                    "focus",
+                    "friction",
+                    "conqueror's mindset",
+                    "early hardships",
+                    "growth challenges",
+                    "stick vs carrot",
+                    "negative inner dialogue",
+                    "inspiration",
+                    "self image"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "David Goggins: How to Build Immense Inner Strength",
+                    "description": "In this episode, my guest is David Goggins, retired Navy SEAL, highly accomplished ultramarathoner, best-selling author, and influential public speaker.\n\nDavid explains how he mastered his inner dialogue to build extraordinary levels of discipline and mental and physical toughness.\n\nHe describes how confronting his early hardships, including physical and mental abuse, learning disorders, and obesity, became a practice of deep and excruciating self-reflection \u2014 eventually allowing him to transmute those experiences into a superhuman work ethic.\n\nThis conversation is a unique window into David Goggins\u2019 process in that it focuses both on the underlying science and how David manages and directs his inner dialogue.\n\nIt\u2019s a conversation that will inform and inspire anyone wondering how exactly to go about building discipline and confidence and reach their potential.\n \nNote: This conversation includes profanity. Some content might not be suitable for all audiences and ages.\n\nAccess the full show notes for this episode: https://go.hubermanlab.com/emxCgmM\n\nUse Ask Huberman Lab, our chat-based tool, for summaries, clips, and insights from this episode: https://go.hubermanlab.com/g9nj7p\n\n*Thank you to our sponsors*\nAG1: https://drinkag1.com/huberman\nMaui Nui Venison: https://mauinuivenison.com/huberman \nAeroPress: https://aeropress.com/pages/huberman \nEight Sleep: https://eightsleep.com/huberman \nInsideTracker: https://insidetracker.com/huberman \nMomentous: https://livemomentous.com/huberman \n\n*Huberman Lab Social & Website*\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nTwitter: https://twitter.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\nWebsite: https://www.hubermanlab.com \nNewsletter: https://www.hubermanlab.com/newsletter\n\n*David Goggins*\nWebsite: https://davidgoggins.com \nBooks: https://davidgoggins.com/book\nMerchandise: https://shop.davidgoggins.com \nInstagram: https://www.instagram.com/davidgoggins\nFacebook: https://www.facebook.com/iamdavidgoggins \nX: https://twitter.com/davidgoggins \n\n*Timestamps*\n00:00:00 David Goggins\n00:03:22 Sponsors: Maui Nui, AeroPress & Eight Sleep\n00:07:58 Learning, Studying & Attention Deficit Hyperactivity Disorder (ADHD)\n00:14:59 Writing & Learning, ADHD & Focus\n00:20:35 Friction, Focus, \u201cConqueror\u2019s Mindset\u201d\n00:25:16 Early Hardships, \u201cHaunted\u201d\n00:30:48 Anger, Social Media; Growth & Challenges\n00:36:14 Sponsor: AG1\n00:37:11 Stick vs. Carrot, Negative Inner Dialogue, \u201cStay Hard\u201d\n00:42:39 Inspiration, Characters & Self Image\n00:46:09 Willpower & Anterior Mid-Cingulate Cortex\n00:53:23 Friction & the \u201cSuck\u201d, Willpower\n00:59:14 Building Willpower, Brain & \u201cNo Days Off\u201d Mentality \n01:08:52 Sponsor: InsideTracker\n01:09:54 Losing Weight, Challenge & Willpower\n01:18:47 Self-Criticism & Discipline; Recovery; Stutter & Building Confidence\n01:26:45 Relationships & Honest Conversations, People Pleasing\n01:34:49 Self-Reflection & Empowerment\n01:39:06 Unseen Work, Real Passion & Purpose, Medicine Cabinet Analogy\n01:46:32 Feeling Lost, Self-Reflection & Individual Process \n01:54:11 Challenges & Two Internal Voices, Misunderstood\n01:59:32 Running, Smoke Jumping; Success; Willpower & Perishable Skills\n02:07:04 Self-Reflection & Action, Distractions\n02:15:27 Inner Dialogue; Failing Properly\n02:24:59 Introspection & Unconscious Mind, Cleaning \u201cCupboards\u201d\n02:35:19 Zero-Cost Support, Spotify & Apple Reviews, YouTube Feedback, Sponsors,  Momentous, Social Media, Neural Network Newsletter\n\n#HubermanLab #DavidGoggins\n\nDisclaimer: https://www.hubermanlab.com/disclaimer"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2H37M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "17543954",
+                "likeCount": "290200",
+                "favoriteCount": "0",
+                "commentCount": "13688"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FahPUERAsl54knEaQe_RNcMNhCw",
+            "id": "KX3GThRK-Fo",
+            "snippet": {
+                "publishedAt": "2024-01-01T13:04:40Z",
+                "channelId": "UCSiDGb0MnHFGjs4E2WKvShw",
+                "title": "Destroying Mustang ? Income ? Girlfriend ? - \u0938\u0935\u093e\u0932 - \u091c\u0935\u093e\u092c | Q&A \ud83e\udd14",
+                "description": "Best Clothing Website - https://90cal.com/\n\nGear We Use For Our You Tube Videos -\n\nBest Lev Mic - https://amzn.to/3DVRKO3\n\nGimble For Smart Phone - https://amzn.to/3PpP261\n\nCamera        - https://amzn.to/41Xp7Ky\n\nMic                - https://amzn.to/4a83PMg\n\nGimble          - https://amzn.to/3Pombim\n\nlens               - https://amzn.to/409gslw\n\nFor Editing   - https://amzn.to/4gAc5ah\n\nReflector      - https://amzn.to/3Prc3Wa\n\nMy Answers To Your Question's \n\nTime Capsule Video - https://youtu.be/Pm0hAOYI1uw?si=muI9KJk1Ixl2dVre\nMustang Video - https://youtu.be/v8-zC_dh9fE?si=EkQ_D52i2W52hU2l\nOrganic Farming - https://youtu.be/fC3wMPLmd5I?si=dlkXR95lBH6Ybo69\nElectric Dam Video - https://youtu.be/ApzXZ9LzKes?si=basZ00F5FW5gFQqf\nDonation Video - https://youtu.be/eHMJsG9oCtg?si=xheS1S1wdW6hRQ5R\n\nSUBSCRIBE : https://youtube.com/MRINDIANHACKER?sub_confirmation=1\n\nFOLLOW KARLO \ud83d\ude18\nInstagram : https://www.instagram.com/dilraj_singh_rawat\nTwitter : https://www.x.com/MR_INDIANHACKER\nFacebook : https://www.facebook.com/mrindianhacker00\n--------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------\n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc01\ud835\udc2e\ud835\udc2c\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc2c & \ud835\udc02\ud835\udc28\ud835\udc25\ud835\udc25\ud835\udc1a\ud835\udc1b\ud835\udc28\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27'\ud835\udc2c \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc1c\ud835\udc2d \ud835\udc07\ud835\udc1e\ud835\udc2b\ud835\udc1e:-\nTeam@mrindianhacker.com\nGaurav@mrindianhacker.com\nManish@mrindianhacker.com\n--------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------\nQuestions - \n\n1. Mr Indian Hacker Income\n2. Mr Indian Hacker Girlfriend\n3. Mr Indian Hacker Organic Farming\n4. Mr Indian Hacker lifestyle\n5. Mr Indian Hacker Mustang\n6. Mr Indian Hacker Time Capsule \n7. Mr Indian Hacker Education\n8. Mr Indian Hacker Family  \n9. Mr Indian Hacker Car Collection\n10. Experiments\n\nLove You Titanium Army You Are My Family.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KX3GThRK-Fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KX3GThRK-Fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KX3GThRK-Fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KX3GThRK-Fo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KX3GThRK-Fo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MR. INDIAN HACKER",
+                "tags": [
+                    "mr indian hacker income",
+                    "mr indian hacker mustang",
+                    "mr indian hacker girlfriend",
+                    "mr indian hacker education",
+                    "mr indian hacker family",
+                    "mr indian hacker home",
+                    "mr indian hacker studio",
+                    "mr indian hacker car collection",
+                    "mr indian hacker",
+                    "mr. indian ghacker",
+                    "mr indian hacker q&a",
+                    "dilraj singh",
+                    "dilraj",
+                    "first q&a",
+                    "2024",
+                    "qna",
+                    "ford mustang",
+                    "mustang gt",
+                    "mr indian hacker new video"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Destroying Mustang ? Income ? Girlfriend ? - \u0938\u0935\u093e\u0932 - \u091c\u0935\u093e\u092c | Q&A \ud83e\udd14",
+                    "description": "Best Clothing Website - https://90cal.com/\n\nGear We Use For Our You Tube Videos -\n\nBest Lev Mic - https://amzn.to/3DVRKO3\n\nGimble For Smart Phone - https://amzn.to/3PpP261\n\nCamera        - https://amzn.to/41Xp7Ky\n\nMic                - https://amzn.to/4a83PMg\n\nGimble          - https://amzn.to/3Pombim\n\nlens               - https://amzn.to/409gslw\n\nFor Editing   - https://amzn.to/4gAc5ah\n\nReflector      - https://amzn.to/3Prc3Wa\n\nMy Answers To Your Question's \n\nTime Capsule Video - https://youtu.be/Pm0hAOYI1uw?si=muI9KJk1Ixl2dVre\nMustang Video - https://youtu.be/v8-zC_dh9fE?si=EkQ_D52i2W52hU2l\nOrganic Farming - https://youtu.be/fC3wMPLmd5I?si=dlkXR95lBH6Ybo69\nElectric Dam Video - https://youtu.be/ApzXZ9LzKes?si=basZ00F5FW5gFQqf\nDonation Video - https://youtu.be/eHMJsG9oCtg?si=xheS1S1wdW6hRQ5R\n\nSUBSCRIBE : https://youtube.com/MRINDIANHACKER?sub_confirmation=1\n\nFOLLOW KARLO \ud83d\ude18\nInstagram : https://www.instagram.com/dilraj_singh_rawat\nTwitter : https://www.x.com/MR_INDIANHACKER\nFacebook : https://www.facebook.com/mrindianhacker00\n--------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------\n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc01\ud835\udc2e\ud835\udc2c\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc2c\ud835\udc2c & \ud835\udc02\ud835\udc28\ud835\udc25\ud835\udc25\ud835\udc1a\ud835\udc1b\ud835\udc28\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27'\ud835\udc2c \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc1c\ud835\udc2d \ud835\udc07\ud835\udc1e\ud835\udc2b\ud835\udc1e:-\nTeam@mrindianhacker.com\nGaurav@mrindianhacker.com\nManish@mrindianhacker.com\n--------------------------------------------------------------------------------------------------\n--------------------------------------------------------------------------------------------------\nQuestions - \n\n1. Mr Indian Hacker Income\n2. Mr Indian Hacker Girlfriend\n3. Mr Indian Hacker Organic Farming\n4. Mr Indian Hacker lifestyle\n5. Mr Indian Hacker Mustang\n6. Mr Indian Hacker Time Capsule \n7. Mr Indian Hacker Education\n8. Mr Indian Hacker Family  \n9. Mr Indian Hacker Car Collection\n10. Experiments\n\nLove You Titanium Army You Are My Family."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT17M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "6079124",
+                "likeCount": "502429",
+                "favoriteCount": "0",
+                "commentCount": "22442"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Vehicle"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "vpX3ZI-t6ALU_YqFQOT_R_-w1ag",
+            "id": "sMsGZ6KZa4M",
+            "snippet": {
+                "publishedAt": "2024-01-01T16:22:45Z",
+                "channelId": "UCaA7Xz8lU9HErQrZEs4hEpg",
+                "title": "Haroon Traders' All-Staff Dinner: A Night of Celebration!\ud83d\ude0d | 2K24 #karachi #foryou #trend #everyone",
+                "description": "Haroon Traders' All-Staff Dinner: A Night of Celebration!\ud83d\ude0d | 2K24 #karachi #foryou #trend #viral #everyone #Grow #reels #sale #trending #shaheenshinwari",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sMsGZ6KZa4M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sMsGZ6KZa4M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sMsGZ6KZa4M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sMsGZ6KZa4M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sMsGZ6KZa4M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HAROON TRADERS",
+                "tags": [
+                    "haroontraders",
+                    "haroon traders",
+                    "dell",
+                    "hp",
+                    "lenovo",
+                    "laptops",
+                    "laptop",
+                    "importer",
+                    "wholesaler",
+                    "dealer",
+                    "usedlaptop",
+                    "fresh import",
+                    "stock",
+                    "bulk",
+                    "quantity",
+                    "online delivery karachi",
+                    "cod",
+                    "good price",
+                    "notebook",
+                    "onlineshopping",
+                    "best dealer",
+                    "cooperate",
+                    "it store",
+                    "laptop store",
+                    "fujistu",
+                    "sonyvaio",
+                    "msi",
+                    "toshiba",
+                    "cash on delivery",
+                    "wholesale price"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Haroon Traders' All-Staff Dinner: A Night of Celebration!\ud83d\ude0d | 2K24 #karachi #foryou #trend #everyone",
+                    "description": "Haroon Traders' All-Staff Dinner: A Night of Celebration!\ud83d\ude0d | 2K24 #karachi #foryou #trend #viral #everyone #Grow #reels #sale #trending #shaheenshinwari"
+                },
+                "defaultAudioLanguage": "ur"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "231",
+                "likeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Food",
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "b3hIu2e6d9IkT6543kBr1RFSKXM",
+            "id": "aARNcZ1ooFE",
+            "snippet": {
+                "publishedAt": "2024-01-01T05:00:07Z",
+                "channelId": "UCushvV1mq3_5av3mCqIgAXQ",
+                "title": "Realme GT 3 Display Review #smartphone #realme  #realmegt3  #review",
+                "description": "Realme GT3 Review Review!\n\n the review of the Realme GT3, a phone with 240W charging, the fastest on the market. It features a Qualcomm Snapdragon 8+ Gen 1 processor, 16 GB RAM, and 256 GB storage. The phone comes with a 6.74-inch AMOLED screen with a 144 Hz refresh rate and a 4600 mAh battery with 240W wired charging. It also includes a microscope camera, and a 50 MP Sony main photo sensor, the same as on the OnePlus 11 and OnePlus Nord 3. It has stereo speakers, an 8 MP ultrawide camera, and an LED light rectangle on the back, activated in GT mode, for games. We took photos and filmed the Christmas fair in Bra\u0219ov with this phone, and you can see the results here. It costs around $700 on AliExpress.\n\n#realme  #realmegt3  #review \n\nRealme GT3 Review in English",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aARNcZ1ooFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aARNcZ1ooFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aARNcZ1ooFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aARNcZ1ooFE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aARNcZ1ooFE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mobiles Unboxing",
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Realme GT 3 Display Review #smartphone #realme  #realmegt3  #review",
+                    "description": "Realme GT3 Review Review!\n\n the review of the Realme GT3, a phone with 240W charging, the fastest on the market. It features a Qualcomm Snapdragon 8+ Gen 1 processor, 16 GB RAM, and 256 GB storage. The phone comes with a 6.74-inch AMOLED screen with a 144 Hz refresh rate and a 4600 mAh battery with 240W wired charging. It also includes a microscope camera, and a 50 MP Sony main photo sensor, the same as on the OnePlus 11 and OnePlus Nord 3. It has stereo speakers, an 8 MP ultrawide camera, and an LED light rectangle on the back, activated in GT mode, for games. We took photos and filmed the Christmas fair in Bra\u0219ov with this phone, and you can see the results here. It costs around $700 on AliExpress.\n\n#realme  #realmegt3  #review \n\nRealme GT3 Review in English"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "37",
+                "likeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 10
+    }
+}
