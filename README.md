@@ -1,5 +1,5 @@
 # What Drives DIY Video Views?
-Throughout this project, we focused on creating a machine learning model to determine what qualities a video 'must have' for it to be considered a “successful” youtube video. Our group focused specifically on DIY videos published in 2024. We pulled our data using the youtube API, cleaned the data, and then created multiple visualizations based on what we found from the datasets.
+Throughout this project, we focused on creating a machine learning model to determine what qualities a video 'must have' for it to be considered a “successful” youtube video. Our group focused specifically on DIY videos published in 2024. We pulled our data using the YouTube API, cleaned the data, and then created multiple visualizations based on what we found from the datasets.
 
 # Machine Learning & Text Processing Notebooks
 
