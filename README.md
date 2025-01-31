@@ -29,7 +29,6 @@ This repository includes essential Jupyter notebooks and supporting files for ou
 The project includes visualizations for model performance and data processing:
 - Confusion matrices for classification models.
 - Word clouds and frequency distributions for text analysis.
-- Line plots for tracking accuracy and loss over epochs.
 - [Our Tableau Visualization](https://public.tableau.com/app/profile/saloum.bochaaya/viz/final_youtube_book/Story1?publish=yes)
 
 ## How to Run
