@@ -77,4 +77,4 @@ This project does not involve personally identifiable or sensitive data. Ethical
 
 ## References:
 - ChatGPT
-- 24 Slides (Presentation Template)
+- PowerPoint template taken from 24Slides PowerPoint Templates: (https://24slides.com/templates/all)
