@@ -50,7 +50,27 @@ To execute the notebooks, follow these steps:
 4. Open and run any `.ipynb` file.
 
 ## Data Points Used
-
+- **c_channel_id**: Youtube channel ID's.
+- **c_channel_title**: Youtube channel titles.
+- **c_channel_upload_playlist**: youtube channels upload playlist ID.
+- **c_channel_subCount**: Total number of subscriber's for a channel.
+- **c_channel_videoCount**: Total number of video's for a channel.
+- **c_channel_viewCount**: Total number of view's for a channel.
+- **v_video_id**: Youtube video ID.
+- **v_title**: Youtube video title.
+- **v_date_publishedAt**: Date video was published at.
+- **v_time_publishedAt**: Time video was published at.
+- **v_duration**: Youtube video duration.
+- **v_category_id**: Youtube video category ID.
+- **v_tags**: Youtube video tag's.
+- **v_description**: Youtube video description.
+- **v_comment_count**: Youtube video comment count.
+- **v_likes**: Youtube video number of likes.
+- **v_views**: Youtube video number of views (our Target or y).
+- **v_definition**: Youtube video definition.
+- **v_caption**: Weather or not a video has captions.
+- **v_age_restricted**: Youtube video age restriction if present.
+- **v_made_for_kids**: Weather or not a video was made for children.
 
 ## Technologies and Tools
 - **Jupyter Notebook**: Interactive computing environment.
